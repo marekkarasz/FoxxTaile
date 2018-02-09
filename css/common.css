@@ -9,11 +9,13 @@ html{
 }
 .nav{
   margin: 0;
-  padding: 0;
+  padding: 0
+
   list-style-type: none;
 }
-.nav > li {
+.nav-top > li{
   display: inline-block;
+  margin: 10px;
 }
 
 .nav-top{
